@@ -30,8 +30,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Vikhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikhanmh&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhanmh&layout=compact&theme=tokyonight)
+![Vikhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikhanmuhammad&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikhanmuhammad&layout=compact&theme=tokyonight)
 
 ---
 
