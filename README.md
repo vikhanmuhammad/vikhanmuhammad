@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vikhan Maharram
+# 👋 Hi there! I'm Vikhan Muharram
 
 💻 **Software Engineer** | 🌐 **Web & Mobile Developer** | 🎨 **UI/UX Enthusiast**  
 🎯 Passionate about building useful, scalable, and meaningful digital products.
