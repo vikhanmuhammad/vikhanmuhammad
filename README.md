@@ -74,7 +74,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vikhanmuhammad/vikhanmuhammad/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 
 <img src="https://raw.githubusercontent.com/vikhanmuhammad/vikhanmuhammad/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
