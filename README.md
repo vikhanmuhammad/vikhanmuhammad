@@ -4,9 +4,9 @@
 
 ### 🚀 About Me  
 - 🎓 Bachelor of Software Engineering — *Telkom University*  
-- 💼 Experienced in **Laravel**, **Flutter**, **Node.js**, **Express**, and **MongoDB**  
+- 💼 Experienced in **Laravel**, **Angular**, **Flutter**, **Node.js**, **TS-Node**, **Express**, and **MongoDB**  
 - 🔍 Love analyzing systems and designing clean architecture using **UML**  
-- 🧠 Currently exploring **AI integration** and **automation workflows (n8n)**  
+- 🧠 Currently exploring **AI integration** and **Vibecoding**  
 - 🌱 Always curious about new tech and improving user experience  
 
 ---
